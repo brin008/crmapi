@@ -1,0 +1,16 @@
+#v-pills-tab a{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+#v-pills-tab a:hover   {
+    background-color: #e0e3e6ad;
+    text-decoration: none;
+}
+#v-pills-tab a.active{
+    background-color:  #e0e3e6ad;
+}
+#Kcol{
+    background: #17a2b8;
+}
